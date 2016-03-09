@@ -1,4 +1,4 @@
-# SQL-workshop
+# SQL Integration with Python
 
 Python workshop for University of Florida Data Science & Informatics
 
